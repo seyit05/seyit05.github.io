@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D03AQGd6WIXX9Ek7g/profile-displayphoto-shrink_800_800/B4DZYcYuqmGwAc-/0/1744232974576?e=1750291200&v=beta&t=-sSl9El6boND_FlDXlDn6NJ5LfiS-WA0BYj40j-jB54)
+[![MasterHead](https://images-ctf.baslerweb.com/dg51pdwahxgw/4FTBqSFoeYlUIcBf3CLVfH/2a6d70cac1f021b08f0798dc4d2b5bc8/software-robotics-02.webp)
 <h1 align="center">Hi 👋, I'm Seyit</h1>
 <h3 align="center">A Robotic Software Developer from Turkey</h3>
 
