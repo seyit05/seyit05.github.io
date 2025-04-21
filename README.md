@@ -1,4 +1,4 @@
-[![MasterHead](https://images-ctf.baslerweb.com/dg51pdwahxgw/4FTBqSFoeYlUIcBf3CLVfH/2a6d70cac1f021b08f0798dc4d2b5bc8/software-robotics-02.webp)
+![MasterHead](https://images-ctf.baslerweb.com/dg51pdwahxgw/4FTBqSFoeYlUIcBf3CLVfH/2a6d70cac1f021b08f0798dc4d2b5bc8/software-robotics-02.webp)
 <h1 align="center">Hi 👋, I'm Seyit</h1>
 <h3 align="center">A Robotic Software Developer from Turkey</h3>
 
