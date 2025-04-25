@@ -1,8 +1,15 @@
+<h1 align="center">Hi 👋, I'm Seyit</h1>
+<h3 align="center">A Robotic Software Developer from Turkey</h3>
 <p align="center">
   <img src="https://cdn-icons-png.freepik.com/256/1507/1507162.png?semt=ais_hybrid" alt="MasterHead" />
 </p>
-<h1 align="center">Hi 👋, I'm Seyit</h1>
-<h3 align="center">A Robotic Software Developer from Turkey</h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=seyit05&label=Profile%20views&color=0e75b6&style=flat" alt="seyit05" />
+  <img src="https://img.shields.io/badge/language-python-blue" alt="python" />
+  <img src="https://img.shields.io/badge/language-c++-brightgreen" alt="c++" />
+</p>
+
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 
