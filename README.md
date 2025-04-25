@@ -1,4 +1,6 @@
-![MasterHead](https://cdn-icons-png.freepik.com/256/1507/1507162.png?semt=ais_hybrid)
+<p align="center">
+  <img src="https://cdn-icons-png.freepik.com/256/1507/1507162.png?semt=ais_hybrid" alt="MasterHead" />
+</p>
 <h1 align="center">Hi 👋, I'm Seyit</h1>
 <h3 align="center">A Robotic Software Developer from Turkey</h3>
 
